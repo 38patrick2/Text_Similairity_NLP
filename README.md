@@ -14,3 +14,8 @@ similarity.py: Dedicated to computing text similarity. This script will utilize 
 test.py: Your testing suite. This is crucial for ensuring that each part of your application is working correctly and is particularly important for maintaining the quality of your application as it evolves.
 
 user_interface.py: Manages all user interactions. This could be a command-line interface or a more advanced GUI, depending on your project scope. It should be user-friendly and intuitive.
+
+
+Refs: 
+https://www.nltk.org/book/ch02.html
+https://www.nltk.org/howto/stem.html
